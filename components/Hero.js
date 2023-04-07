@@ -7,8 +7,8 @@ const Hero = () => {
       <Image
         src="/hero_image.png"
         alt="Hero Background"
-        width={1344}
-        height={896}
+        width={1200}
+        height={800}
         quality={100}
       />
       <div className={styles.overlay}>
